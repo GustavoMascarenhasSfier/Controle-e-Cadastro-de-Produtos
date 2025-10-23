@@ -4,7 +4,6 @@ Este projeto é um sistema web básico de **Cadastro e Controle de Produtos (CRU
 
 A aplicação permite ao usuário registrar novos produtos (nome e valor), listar todos os itens em uma tabela e realizar operações de edição e exclusão. Toda a lógica de estado e as regras de negócio são encapsuladas na `class Produto`.
 
-[![Link do Projeto (Se Tiver)](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://[Seu-Link-do-GitHub-Pages-Aqui])
 
 ## 🎯 Objetivo de Estudo (Foco em JavaScript Classes e DOM)
 
